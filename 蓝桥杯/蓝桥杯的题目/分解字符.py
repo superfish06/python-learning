@@ -1,0 +1,1 @@
+urllib.quote(line.decode("gbk").encode("utf-16"))
